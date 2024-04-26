@@ -33,7 +33,7 @@ const MobileNav = () => {
 				<SheetContent side='left' className='border-none bg-dark-1'>
 				<Link href='/' className='flex items-center gap-1'>
 					<Image 
-						src='/icons/logo.svg'
+						src='/icons/zync-logo.svg'
 						width={32}
 						height={32}
 						alt='Zync logo'

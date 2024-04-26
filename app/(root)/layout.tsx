@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Zync",
   description: "Video calling app",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/zync-logo.svg'
   }
 };
 
